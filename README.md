@@ -7,8 +7,8 @@ How can I ensure that my code, program, or software is functional and secure?
 How do I interpret user needs and incorporate them into a program?
 
 
-    You speak with the user and ask questions in order to create requirements that the program must pass in order to be finished.
+    You must with the client and ask probing questions to create requirements that the program must pass to be finished or "successful".
 How do I approach designing software?
 
 
-    With a constantly learning attitude. Taking pride in my software by creating secure, beautiful, efficient code.
+    With a mindset of constantly learning and thinking through the code I create. Taking pride in my software by creating secure, beautiful, efficient code.
